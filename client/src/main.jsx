@@ -8,7 +8,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 	<React.StrictMode>
 		<Auth0Provider
 			domain="dev-u4n3gigndbkmwq7h.us.auth0.com"
-			clientId="zas1FpjbOxmEsOjL41GlqiKalXkdvWJJ"
+			clientId="I7mrdGJDmyyhLxoCpkfhjRMpNE59eGwM"
 			authorizationParams={{
 				redirect_uri: "https://real-estate-test-deploy-six.vercel.app/",
 			}}
